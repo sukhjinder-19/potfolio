@@ -13,8 +13,7 @@ I am an enthusiastic and motivated Python Developer with knowledge of Python, SQ
 - HTML
 - GitHub
 - MS Office
-- Basic Web Development
-
+  
 ## 📂 Projects
 
 ### 🏥 Smart Healthcare System
@@ -39,8 +38,7 @@ A Python-based application that performs CRUD operations and stores student data
 
 ## 📜 Certifications
 
-- Python Programming
-- SQL Fundamentals
+- AI/ML with Python Programming
 - Artificial Intelligence Fundamentals
 
 ## 📧 Contact Me
