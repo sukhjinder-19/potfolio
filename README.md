@@ -35,13 +35,13 @@ A Python-based application that performs CRUD operations and stores student data
 ## 🎓 Education
 
 - Master of Computer Applications (MCA)
-- Bachelor of Computer Applications (BCA)
+- Bachelor of Arts(BA)
 
 ## 📜 Certifications
 
 - Python Programming
 - SQL Fundamentals
-- Web Development Basics
+- Artificial Intelligence Fundamentals
 
 ## 📧 Contact Me
 
